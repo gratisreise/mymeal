@@ -1,0 +1,6 @@
+[submodule "mymeal-server"]
+	path = mymeal-server
+	url = https://github.com/gratisreise/mymeal-server.git
+[submodule "mymeal-android"]
+	path = mymeal-android
+	url = https://github.com/gratisreise/mymeal-android.git
